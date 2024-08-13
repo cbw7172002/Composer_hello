@@ -1,0 +1,17 @@
+{
+    "name": "xifan/composer_hello",
+    "description": "如何构建自己的Composer依赖包",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Xifan\\ComposerHello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cbw7172002",
+            "email": "175510896@qq.com"
+        }
+    ],
+    "require": {}
+}
